@@ -22,3 +22,4 @@ Thank you for the code inspirations and examples.
 - https://www.filipeflop.com/blog/controle-seu-esp32-usando-telegram/
 - https://techtutorialsx.com/2020/06/10/esp32-camera-image-server/
 - https://cdn.sparkfun.com/datasheets/Sensors/LightImaging/ML8511_3-8-13.pdf (ML8511 datasheet)
+- https://stackoverflow.com/a/58099023
