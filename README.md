@@ -6,6 +6,7 @@ ESP-32 and Arduino integration for real-time measurement of the UV index and Tel
 # File tree
 - To deploy you need a php server running `project_php` code in a server (can be local server as long as ESP is connected to same network or you have open ports for the desired service.
 - Backend routines are from the `project_java` directory, compile it using any JDK and Maven for dependency management.
+(Need `.env` file in the same directory as jar file as described in `Info.java` class.)
 - Standalone arduino application is in the `project_arduino_LCD` directory.
 - For HTTP server integration files are in `project_arduino` directory.
 - For direct communication with telegram from ESP32 (without HTTP server) please refer to `project_esp` directory.
